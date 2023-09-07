@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">A cool sorting visualizer where you can edit the algorithms. <a href="https://stoica.dev/sorting-visualizer/">Demo here</a></h4>
+<h4 align="center">A cool sorting visualizer where you can edit the algorithms. <a href="">Demo here</a></h4>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -13,7 +13,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif)
+![screenshot](https://github.com/realankitsinghal/Sorting-Visualizer/blob/main/content/demo.gif)
 
 ## Features
 
@@ -53,8 +53,6 @@ This webapp uses the following open source packages:
 - [React-Ace (Code Editor)](https://github.com/securingsincity/react-ace)
 
 ## License
-
-MIT
 
 ---
 
