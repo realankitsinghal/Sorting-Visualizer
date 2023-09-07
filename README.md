@@ -29,7 +29,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/stoicaandrei/sorting-visualizer
+$ git clone https://github.com/realankitsinghal/Sorting_Visualizer-Master/
 
 # Go into the repository
 $ cd sorting-visualizer
@@ -58,5 +58,5 @@ MIT
 
 ---
 
-> [stoica.dev](https://stoica.dev/) &nbsp;&middot;&nbsp;
-> GitHub [@stoicaandrei](https://github.com/stoicaandrei) &nbsp;&middot;&nbsp;
+> [Ankit Singhal](https://ankitsinghal.me/) &nbsp;&middot;&nbsp;
+> GitHub [@realankitsinghal](https://github.com/realankitsinghal) &nbsp;&middot;&nbsp;
